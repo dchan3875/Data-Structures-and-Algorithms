@@ -1,4 +1,4 @@
-# Coursework from Data Structures Algorithms 
+# Project Descriptions
 HW#1: Applicant Hiring System \
 A database where applicants can be created and sorted by their qualifications such as education and skills. Applicants can be added/removed from the database. \
 \
