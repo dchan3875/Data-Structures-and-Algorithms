@@ -40,5 +40,5 @@ Inventory manager for stores. Users can track inventory for items that are being
 \
 SP.7: Organ Donor Tracker using Graphs \
 System that matches organ donors with potential transplant applicants. Makes sure blood types are compatiable, with each node representing a donor/recipient with neighbors being the matches. Information is displayed in a table and allows user to sort by blood type, patient ID, number of matches, and type of organ. \
-\
+
 
