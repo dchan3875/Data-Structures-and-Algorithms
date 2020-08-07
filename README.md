@@ -39,6 +39,6 @@ SP.6: Store Inventory Manager using HashTable \
 Inventory manager for stores. Users can track inventory for items that are being bought/sold/delivered for each day. Days can be advanced with inventory changes being reflected. Stored in HashTable using item code as the key and quantity as value. Also serializable so users can continue their changes after closing. \
 \
 SP.7: Organ Donor Tracker using Graphs \
-System that matches organ donors with potential transplant applicants. Makes sure blood types are compatiable, with each node representing a donor/recipient with neighbors being the matches. Information is displayed in a table and allows user to sort by blood type, patient ID, number of matches, and type of organ. \
+System that matches organ donors with potential transplant applicants. Makes sure blood types are compatiable, with each node representing a donor/recipient with neighbors being the matches. Information is displayed in a table and allows user to sort by blood type, patient ID, number of matches, and type of organ.
 
 
