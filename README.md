@@ -33,7 +33,7 @@ SP.4: Restaurant Simulation using Queues \
 A restaurant simulator that has customers enter and randomly order different food. Each food takes a different time to make while customers all take 15 minutes to eat. Different number of chefs can be set to change the timing to make orders. Keeps track of money gained, average time for an order, and number of customers that left due to full capacity in the queue. \
 \
 SP.5: Choose-Your-Own Adventure Creator using Trees \
-Allows users to create and play their own Choose-Your-Own Adventure game. Users create nodes (represents a scene) that are attached to the tree (story) which can be played/traversed through.
+Allows users to create and play their own Choose-Your-Own Adventure game. Users create nodes (represents a scene) that are attached to the tree (story) which can be played/traversed through. \
 \
 SP.6: Store Inventory Manager using HashTable \
 Inventory manager for stores. Users can track inventory for items that are being bought/sold/delivered for each day. Days can be advanced with inventory changes being reflected. Stored in HashTable using item code as the key and quantity as value. Also serializable so users can continue their changes after closing. \
